@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jasmin Jeril</h1>
 <h3 align="center">A passionate Computer Science Engineering student from Veltech University</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif">
+
 
 - 🌱 I’m currently learning **Java, DSA, and Full Stack Web Development**
 
