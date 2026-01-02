@@ -3,11 +3,11 @@
 
 
 
-- 🌱 I’m currently learning **Java, DSA, and Full Stack Web Development**
+- 🌱 I have a good knowledge in **Java, DSA, and Full Stack Web Development**
 
-- 🎓 Final Year CSE @ Veltech University | Preparing for placements (FAANG & Core Product Companies)
+- 🎓 Final Year CSE @ Veltech University 
 
-- 🧠 My interests: **AI/ML, Deep Learning, and Software Engineering**
+- 🧠 My interests: **Full Stack Development**
 
 - 🔭 Some of my notable projects:
   - 🧠 Brain Tumor Detection (PyTorch + Streamlit)
